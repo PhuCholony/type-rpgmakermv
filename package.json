@@ -1,0 +1,17 @@
+{
+  "name": "@phucholony/rpgmakermv-types",
+  "version": "0.0.1",
+  "description": "Declare Classes and Interfaces of RPG Maker MV",
+  "keywords": ["phucholony", "types", "rpgmakermv", "types-rpgmakermv"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhuCholony/type-rpgmakermv.git"
+  },
+  "author": "Phuconh Chueapong",
+  "license": "UNLICENSED",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/PhuCholony/type-rpgmakermv/issues"
+  },
+  "homepage": "https://github.com/PhuCholony/type-rpgmakermv#readme"
+}
